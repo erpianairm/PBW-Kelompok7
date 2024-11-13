@@ -28,6 +28,8 @@ Sistem ini diharapkan dapat memberikan manfaat dalam mempermudah pengelolaan per
 
 ---
 ## Penjelasan Actor, Use Case, ERD, Class Diagram, Struktur Website, dan Wireframe
+## ERD
+![image (6)](https://github.com/user-attachments/assets/d039a7d6-5355-444d-9a37-ef36a185ec20)
 
 ### Wireframe:
 [Klik Untuk Melihat Design Figma Mockup](https://www.figma.com/design/bbKVft1UqxPsq6h4n7Ovc6/PBW-MANTAAAP?node-id=0-1&t=ffPKbbUGDcv1fJXT-1)

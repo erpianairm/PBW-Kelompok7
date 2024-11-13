@@ -1,11 +1,14 @@
-# Sistem Perpustakaan Sederhana - Kelompok 7 Pemrograman Berbasis Web
+# 📚Sistem Perpustakaan Sederhana - Kelompok 7 Pemrograman Berbasis Web 📚 #
 
-### Kami adalah Kelompok 7 dari mata kuliah Pemrograman Berbasis Web yang terdiri dari:
+# Selamat datang di Sistem Perpustakaan, proyek yang disusun oleh Kelompok 7. #
+<br> Proyek ini merupakan tugas akhir dalam mata kuliah PBW yang bertujuan untuk menciptakan sistem yang mempermudah pengelolaan perpustakaan, mulai dari manajemen buku hingga peminjaman dan pengembalian secara digital. <br>
 
-- Titin Sugihartini - 4522210004
-- Lutfiah Rizka - 4522210019
-- Irma Erpiana - 4522210051
+# 👥 Anggota Kelompok #
+<br> 4522210004 - Titin Sugihartini <br>
+<br> 4522210019 - Lutfiah Rizka <br>
+<br> 452210051 - Irma Erpiana <br>
 
+**📝 Deskripsi Proyek**
 Pada repository ini, kami mempersembahkan Sistem Perpustakaan Sederhana yang sedang kami kembangkan. Proyek ini dirancang untuk mempermudah pengelola perpustakaan dalam mengelola buku, proses peminjaman, serta pengembalian buku secara efisien dan terorganisir.
 
 ## Progres Proyek
@@ -35,7 +38,7 @@ Sistem ini diharapkan dapat memberikan manfaat dalam mempermudah pengelolaan per
 ### Link Youtube Penjelasan Struktur Website
 [Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/lpCgKsaO3MA)
 
-##kodingan
+
 ---
 ## Struktur Website
 ### Home / Halaman Utama:

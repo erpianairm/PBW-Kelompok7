@@ -35,6 +35,7 @@ Sistem ini diharapkan dapat memberikan manfaat dalam mempermudah pengelolaan per
 ### Link Youtube Penjelasan Struktur Website
 [Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/lpCgKsaO3MA)
 
+##kodingan
 ---
 ## Struktur Website
 ### Home / Halaman Utama:
@@ -52,3 +53,4 @@ Sistem ini diharapkan dapat memberikan manfaat dalam mempermudah pengelolaan per
 
 ### Footer:
 © 2024 Perpustakaan Digital. All rights reserved.
+

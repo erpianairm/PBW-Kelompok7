@@ -1,66 +1,66 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 📚Sistem Perpustakaan Sederhana - Kelompok 7 Pemrograman Berbasis Web 📚 #
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# Selamat datang di Sistem Perpustakaan, proyek yang disusun oleh Kelompok 7. #
+<br> Proyek ini merupakan tugas akhir dalam mata kuliah PBW yang bertujuan untuk menciptakan sistem yang mempermudah pengelolaan perpustakaan, mulai dari manajemen buku hingga peminjaman dan pengembalian secara digital. <br>
 
-## About Laravel
+# 👥 Anggota Kelompok #
+<br> 4522210004 - Titin Sugihartini <br>
+<br> 4522210019 - Lutfiah Rizka <br>
+<br> 452210051 - Irma Erpiana <br>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+**📝 Deskripsi Proyek**
+Pada repository ini, kami mempersembahkan Sistem Perpustakaan Sederhana yang sedang kami kembangkan. Proyek ini dirancang untuk mempermudah pengelola perpustakaan dalam mengelola buku, proses peminjaman, serta pengembalian buku secara efisien dan terorganisir.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Progres Proyek
+Proyek ini melibatkan beberapa tahap pengembangan, dengan progres terkini mencakup:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Tahapan pengembangan yang telah kami selesaikan
+- Fitur-fitur utama yang sudah diimplementasikan
+- Rencana pengembangan lanjutan
 
-## Learning Laravel
+## Manfaat Sistem
+Sistem ini diharapkan dapat memberikan manfaat dalam mempermudah pengelolaan perpustakaan, termasuk:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- Mempercepat dan menyederhanakan proses peminjaman dan pengembalian buku
+- Mengorganisir data buku dengan lebih baik
+- Meningkatkan efisiensi kerja pengelola perpustakaan
+- Kami berkomitmen untuk terus mengembangkan sistem ini agar semakin bermanfaat bagi pengguna dan dapat menjadi solusi yang efektif dalam manajemen perpustakaan.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+---
+## Penjelasan Actor, Use Case, ERD, Class Diagram, Struktur Website, dan Wireframe
+### Use Case
+![Use Case Perpustakaan Digital](https://github.com/user-attachments/assets/6008aa68-8732-4ad4-9eba-f5e7fc1fd1c1)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### ERD
+![image (6)](https://github.com/user-attachments/assets/d039a7d6-5355-444d-9a37-ef36a185ec20)
 
-## Laravel Sponsors
+### Class Diagram
+![diagram class (1)](https://github.com/user-attachments/assets/fb319f1d-8d70-45b5-a25e-cd25ff5b791e)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### Wireframe:
+[Klik Untuk Melihat Design Figma Mockup](https://www.figma.com/design/bbKVft1UqxPsq6h4n7Ovc6/PBW-MANTAAAP?node-id=0-1&t=ffPKbbUGDcv1fJXT-1)
 
-### Premium Partners
+### Mockup:
+[Klik Untuk Melihat Design Figma Wireframe](https://www.figma.com/design/bbKVft1UqxPsq6h4n7Ovc6/PBW-MANTAAAP?node-id=1-2&t=ffPKbbUGDcv1fJXT-1)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### Link Youtube Penjelasan Struktur Website
+[Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/lpCgKsaO3MA)
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
+## Struktur Website
+### Home / Halaman Utama:
+- Menampilkan informasi singkat mengenai perpustakaan digital tersebut.
+- Layanan untuk login/sign up pada website untuk masuk ke perpustakaan digital.
 
-## Code of Conduct
+### Library:
+- Layanan yang ditawarkan pada halaman website perpustakaan ini mencakup fitur pencarian buku, akses untuk membaca buku yang diinginkan, serta daftar koleksi buku yang tersedia.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Kategogri
+- Halaman kategori pada website perpustakaan ini memberikan kemudahan bagi admin dan pengguna untuk mengelola data buku tambahan. Melalui halaman ini, admin dan pengguna dapat melakukan berbagai tindakan seperti mengedit informasi buku, menambah buku baru ke dalam koleksi perpustakaan, serta menghapus buku yang tidak lagi tersedia atau diperlukan.
 
-## Security Vulnerabilities
+### Contact Us
+- Memberikan berbagai metode atau sarana yang memungkinkan pengunjung untuk menghubungi perusahaan atau pihak yang bersangkutan pada perpustakaan digital kami.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Footer:
+© 2024 Perpustakaan Digital. All rights reserved.

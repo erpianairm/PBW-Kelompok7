@@ -32,10 +32,11 @@ Sistem ini diharapkan dapat memberikan manfaat dalam mempermudah pengelolaan per
 ![Use Case Perpustakaan Digital](https://github.com/user-attachments/assets/6008aa68-8732-4ad4-9eba-f5e7fc1fd1c1)
 
 ### ERD
-![image (6)](https://github.com/user-attachments/assets/d039a7d6-5355-444d-9a37-ef36a185ec20)
+![WhatsApp Image 2024-12-11 at 08 24 33](https://github.com/user-attachments/assets/1db8a249-fa4a-4a0f-920b-a911bac88572)
 
 ### Class Diagram
-![diagram class (1)](https://github.com/user-attachments/assets/fb319f1d-8d70-45b5-a25e-cd25ff5b791e)
+![WhatsApp Image 2024-12-11 at 00 28 35](https://github.com/user-attachments/assets/c51dd983-22d5-494e-875c-a3aa42ed46bb)
+
 
 ### Wireframe:
 [Klik Untuk Melihat Design Figma Mockup](https://www.figma.com/design/bbKVft1UqxPsq6h4n7Ovc6/PBW-MANTAAAP?node-id=0-1&t=ffPKbbUGDcv1fJXT-1)

@@ -57,7 +57,7 @@ https://youtu.be/AQfU6QTJYbk
 ### Library:
 - Layanan yang ditawarkan pada halaman website perpustakaan ini mencakup fitur pencarian buku, akses untuk membaca buku yang diinginkan, serta daftar koleksi buku yang tersedia.
 
-### Kategogri
+### Kategori
 - Halaman kategori pada website perpustakaan ini memberikan kemudahan bagi admin dan pengguna untuk mengelola data buku tambahan. Melalui halaman ini, admin dan pengguna dapat melakukan berbagai tindakan seperti mengedit informasi buku, menambah buku baru ke dalam koleksi perpustakaan, serta menghapus buku yang tidak lagi tersedia atau diperlukan.
 
 ### Contact Us

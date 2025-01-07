@@ -38,10 +38,10 @@ Sistem ini diharapkan dapat memberikan manfaat dalam mempermudah pengelolaan per
 ![diagram class (1)](https://github.com/user-attachments/assets/fb319f1d-8d70-45b5-a25e-cd25ff5b791e)
 
 ### Wireframe:
-[Klik Untuk Melihat Design Figma Mockup](https://www.figma.com/design/bbKVft1UqxPsq6h4n7Ovc6/PBW-MANTAAAP?node-id=0-1&t=ffPKbbUGDcv1fJXT-1)
+[Klik Untuk Melihat Design Figma Wireframe](https://www.figma.com/design/bbKVft1UqxPsq6h4n7Ovc6/PBW-MANTAAAP?node-id=0-1&t=ffPKbbUGDcv1fJXT-1)
 
 ### Mockup:
-[Klik Untuk Melihat Design Figma Wireframe](https://www.figma.com/design/bbKVft1UqxPsq6h4n7Ovc6/PBW-MANTAAAP?node-id=1-2&t=ffPKbbUGDcv1fJXT-1)
+[Klik Untuk Melihat Design Figma Mockup](https://www.figma.com/design/bbKVft1UqxPsq6h4n7Ovc6/PBW-MANTAAAP?node-id=1-2&t=ffPKbbUGDcv1fJXT-1)
 
 ### Link Youtube Penjelasan Struktur Website
 [Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/lpCgKsaO3MA)
